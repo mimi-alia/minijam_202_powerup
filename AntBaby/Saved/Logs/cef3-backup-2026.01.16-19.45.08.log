@@ -1,0 +1,8 @@
+[22428:6440:0116/184114.757:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[22428:24168:0116/184114.817:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[22428:6440:0116/184114.835:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[22428:6440:0116/184121.208:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[8908:33256:0116/184123.743:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-13FB5E06483B270C7C79145672FC4A59 will be ignored
+[22428:28564:0116/191445.380:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[37676:34824:0116/204508.008:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[22428:24896:0116/204508.036:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
