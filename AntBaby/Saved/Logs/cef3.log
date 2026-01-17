@@ -1,13 +1,8 @@
-[21888:21892:0117/111158.071:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[21888:27336:0117/111158.319:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[21888:21892:0117/111158.445:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[21888:21892:0117/111201.901:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[27464:26968:0117/111203.470:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
-[26784:10568:0117/111204.140:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E48B32E5AC9A11720D2FAFF6EADBD6B1 will be ignored
-[27464:26968:0117/111204.209:ERROR:backend_impl.cc(989)] Critical error found -8
-[27464:26968:0117/111204.209:WARNING:storage_block-inl.h(138)] Failed data load.
-[27464:26968:0117/111204.209:WARNING:storage_block-inl.h(138)] Failed data load.
-[27464:26968:0117/111204.209:ERROR:entry_impl.cc(1029)] No file for c103000c
-[27464:26968:0117/111204.210:WARNING:storage_block-inl.h(138)] Failed data load.
-[21888:27348:0117/111205.900:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[21888:21892:0117/121224.968:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[14632:28016:0117/132535.022:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[14632:28064:0117/132535.348:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[14632:28016:0117/132535.500:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[14632:28016:0117/132541.176:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[13304:14948:0117/132546.115:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1586A44A8BE3D04E80953C436BD87E12 will be ignored
+[8004:20080:0117/134202.373:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[14632:28064:0117/134202.382:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[14632:28016:0117/140159.478:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
