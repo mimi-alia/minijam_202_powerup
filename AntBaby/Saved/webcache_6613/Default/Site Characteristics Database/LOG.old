@@ -1,3 +1,5 @@
-2026/01/17-12:43:27.048 5754 Reusing MANIFEST C:\Users\geral\Documents\GitHub\minijam_202_powerup\AntBaby\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/01/17-12:43:27.048 5754 Recovering log #3
-2026/01/17-12:43:27.049 5754 Reusing old log C:\Users\geral\Documents\GitHub\minijam_202_powerup\AntBaby\Saved\webcache_6613\Default\Site Characteristics Database/000003.log 
+2026/01/17-21:21:43.090 194 Log #3: 8 ops saved to Table #4 OK
+2026/01/17-21:21:43.095 194 Archiving F:\Anja\gamejam\minijam_202_powerup\AntBaby\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
+2026/01/17-21:21:43.096 194 Table #4: 8 entries OK
+2026/01/17-21:21:43.096 194 Archiving F:\Anja\gamejam\minijam_202_powerup\AntBaby\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/01/17-21:21:43.106 194 **** Repaired leveldb F:\Anja\gamejam\minijam_202_powerup\AntBaby\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 266 bytes. Some data may have been lost. ****
